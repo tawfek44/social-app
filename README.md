@@ -6,6 +6,6 @@
 ## Tech used
 - Flutter App Developement with Dart Programming language.
 - list view.
-- state mangement using ## bloc .
+- state mangement using #bloc .
 - Firebase Firestore .
 - real-time Chatting.
